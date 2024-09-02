@@ -1,5 +1,7 @@
 ## Hi there, My name is Valeria 👋
 <h4 align="center">A student passionate about technology and creating new things that make pleople's lives easy.</h4>
+<h4 align="center">Web Developer and Blockchain Enthusiast</h4>
+
 
 ## Languages and Tools
 <p align="left"> 
